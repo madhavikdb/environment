@@ -1,21 +1,25 @@
 {
-  "title": "myfirstscenario",
-  "description": "create a hyscale scenario",
+  "title": "HyScale",
+  "description": "START USING HYSACLE",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "step1.md",
+	"answer": "step1-answer",
+	"code": "command.sh"
       },
       {
         "title": "Step 2",
         "text": "step2.md"
+	"answer": "step2-answer",
       }
     ],
     "intro": {
       "text": "intro.md"
+	"credits": "",
     },
     "finish": {
       "text": "finish.md"

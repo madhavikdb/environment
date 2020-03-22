@@ -18,8 +18,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
-	"credits": "",
+      "text": "intro.md",
+	"credits": ""
     },
     "finish": {
       "text": "finish.md"

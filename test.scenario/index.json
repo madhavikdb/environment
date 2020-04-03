@@ -24,9 +24,11 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split"
+    "uilayout": "editor-terminal-split",
+    "terminals": [{"name": "Docker Stats", "command": "docker stats"}]
+}
   },
   "backend": {
-    "imageid": "kubernetes-cluster"
+    "imageid": "docker"
   }
 }

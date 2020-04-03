@@ -8,7 +8,8 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-	"code": "command.sh"
+	"code": "command.sh",
+	      "answer":"step1-answer"
       },
       {
         "title": "Step 2",

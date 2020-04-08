@@ -25,7 +25,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split",
+    "uilayout": "terminal",
     "terminals": [{"name": "Docker Stats", "command": "docker stats"}]
   },
   "backend": {

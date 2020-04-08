@@ -7,9 +7,7 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md",
-	"code": "command.sh",
-	      "answer":"step1-answer"
+        "text": "step1.md"
       },
       {
         "title": "Step 2",
@@ -25,8 +23,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "terminals": [{"name": "Docker Stats", "command": "docker stats"}]
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "docker"

@@ -23,7 +23,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+	  "icon":"hyscale.png",
+	  "uimessage1":"your terminal is safe"
   },
   "backend": {
     "imageid": "docker"

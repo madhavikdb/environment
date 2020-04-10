@@ -7,8 +7,8 @@
     "steps": [
       {
         "title": "Step 1",
-	"courseData": "installHyscale.sh",
-        "text": "step1.md"
+	"text": "step1.md",
+	"courseData": "installHyscale.sh"
       },
       {
         "title": "Step 2",

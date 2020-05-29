@@ -29,7 +29,7 @@
 ],
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/home/scrapbook/tutorial/.kube"
+    "uieditorpath": "/home/scrapbook/.kube"
   },
   "backend": {
     "imageid": "docker"

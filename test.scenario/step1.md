@@ -1,6 +1,3 @@
-setup your cluster authentication details.
-`touch newFile.js`{{execute}}
-`newFile.js`{{open}}
-Check the hyscale version
-`echo "Run in Terminal"`{{execute}}
-`newFile.js`{{close}}
+configure your cluster authentication details.
+`config`{{open}}
+console.log("#copy Kubernetes authentication credentials kubeconfig file having the cluster token details here")

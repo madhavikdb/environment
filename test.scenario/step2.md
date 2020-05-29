@@ -1,1 +1,2 @@
-Deploy your new application.
+Check the hyscale version
+`hyscale --version`{{execute}}

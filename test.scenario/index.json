@@ -8,26 +8,28 @@
       {
         "title": "Step 1",
 	"text": "step1.md",
-	"courseData": "installHyscale.sh"
+	"courseData": "configpath.sh"
       },
       {
         "title": "Step 2",
-        "text": "step2.md"
+	"text": "step2.md",
+	"courseData": "installHyscale.sh"
       }
     ],
     "intro": {
       "text": "intro.md",
-	"credits": "hello"
+	"credits": "For product details visit https://github.com/hyscale/hyscale"
     },
     "finish": {
       "text": "finish.md"
     }
   },
 "files": [
-    "app.js", "index.js"
+    "config"
 ],
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal",
+    "uieditorpath": "/home/scrapbook/tutorial/.kube"
   },
   "backend": {
     "imageid": "docker"

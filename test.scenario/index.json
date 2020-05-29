@@ -27,7 +27,7 @@
     "app.js", "index.js"
 ],
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "docker"

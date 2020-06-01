@@ -8,12 +8,11 @@
       {
         "title": "Step 1",
 	"text": "step1.md",
-	"courseData": "editorComments.sh"
+	"courseData": "configHyscale.sh"
       },
       {
         "title": "Step 2",
-	"text": "step2.md",
-	"courseData": "installHyscale.sh"
+	"text": "step2.md"
       }
     ],
     "intro": {

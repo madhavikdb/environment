@@ -1,2 +1,2 @@
 configure your cluster authentication details.
-'/home/scrapbook/.kube/config'{{open}}
+`/home/scrapbook/.kube/config`{{open}}

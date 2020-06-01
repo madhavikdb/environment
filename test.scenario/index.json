@@ -24,7 +24,9 @@
       "text": "finish.md"
     }
   },
-	
+"files": [
+	"config
+	],
   "environment": {
     "uilayout": "editor-terminal",
     "uieditorpath": "/home/scrapbook/.kube"

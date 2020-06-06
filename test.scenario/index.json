@@ -28,6 +28,6 @@
     "uieditorpath": "/home/scrapbook/.kube"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "kubernetes-cluster"
   }
 }

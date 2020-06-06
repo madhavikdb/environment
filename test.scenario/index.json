@@ -21,12 +21,7 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-	  "assets": {
-            "host01": [
-                {"file": "config", "target": "/home/scrapbook/.kube", "chmod": "+x"}
-            ]
-        }
+    }
   },
   "environment": {
     "uilayout": "editor-terminal",

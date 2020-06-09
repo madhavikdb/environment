@@ -23,8 +23,10 @@
       "text": "finish.md"
     }
   },
+  "files":["config"],
   "environment": {
     "uilayout": "editor-terminal",
+"uisettings": "json",
     "uieditorpath": "/home/scrapbook/.kube"
   },
   "backend": {

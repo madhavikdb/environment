@@ -28,7 +28,7 @@
     ],
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/home/scrapbook/.kube"
+    "uieditorpath": "/home/scrapbook"
   },
   "backend": {
     "imageid": "kubernetes"

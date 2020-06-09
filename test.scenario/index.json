@@ -26,7 +26,7 @@
   "files":["config"],
   "environment": {
     "uilayout": "editor-terminal",
-"uisettings": "json",
+    "uimessage1":"\u001b[32m# This is your Editor pane. Write the Dockerfile here and \n# use the command line to execute commands.\u001b[m\r\n"
     "uieditorpath": "/home/scrapbook/.kube"
   },
   "backend": {
